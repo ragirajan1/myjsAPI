@@ -42,6 +42,13 @@
       "SKU":"1-214",
       "image":"https://i2.wp.com/riveridgeproduce.com/wp-content/uploads/2017/05/cherries.jpg"
     }
+    {
+      "id": 7,
+      "name": "Mango",
+      "price":"100",
+      "SKU":"1-215",
+      "image":"https://5.imimg.com/data5/BD/EK/HP/SELLER-7051866/mango-fruit-500x500.jpg"
+    }
   ]
 }
 
